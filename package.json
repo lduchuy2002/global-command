@@ -1,0 +1,15 @@
+{
+  "name": "nvim",
+  "version": "1.0.0",
+  "description": "global command",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "huy.le",
+  "license": "ISC",
+  "bin": {
+    "switch-env": "index.js",
+    "gen-token": "gen-token.js"
+  }
+}
